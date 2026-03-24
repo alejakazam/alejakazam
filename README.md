@@ -16,11 +16,11 @@ Me gusta construir soluciones funcionales, limpias y bien estructuradas.
 
 ## 📑 Índice de Proyectos
 
-* 🎫 [Sistema de Tickets (CRUD Django)](https://github.com/alejakazam/Django-Tickets)
-* 📚 [Sistema de Préstamo de Libros](https://github.com/alejakazam/Sistema-Prestamo-Libros)
-* 💻 [Sistema de Préstamo de Notebooks](https://github.com/alejakazam/Sistema-Prestamo-Notebooks)
+* 🎫 [Sistema de Tickets (CRUD Django)]([https://github.com/alejakazam/M8-CRUD])
+* 📚 [Sistema de Préstamo de Libros](https://github.com/alejakazam/M8-Biblioteca)
+* 💻 [Sistema de Préstamo de Notebooks](https://github.com/alejakazam/M8-Prestamos)
 * 🛒 [Tienda Web (Django + Sass)](https://github.com/alejakazam/Django-Dogstore-con-Sass)
-* 💳 [AlkeWallet (Base de Datos)](https://github.com/alejakazam/AlkeWallet)
+* 💳 [AlkeWallet (Base de Datos)](https://github.com/alejakazam/alke-wallet)
 
 ---
 

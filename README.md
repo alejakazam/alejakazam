@@ -1,16 +1,37 @@
-## Hi there 👋
+Buenas!! Soy desarrolladora enfocada en el desarrollo web Full-Stack Python con especial interés en front end y aplicaciones completas usando Django. Me gusta construir soluciones funcionales, limpias y bien estructuradas.
 
-<!--
-**alejakazam/alejakazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+-Apasionada por el desarrollo web
+-Enfocada en Python y Django
+-Interés en diseño con Bootstrap y estilos personalizados (Sass/CSS)
+-Siempre aprendiendo nuevas tecnologías y buenas prácticas
 
-Here are some ideas to get you started:
+Índice de Proyectos
+🎫 Sistema de Tickets (CRUD Django) https://github.com/alejakazam/Django-Tickets
+📚 Sistema de Préstamo de Libros https://github.com/alejakazam/Sistema-Prestamo-Libros
+💻 Sistema de Préstamo de Notebooks https://github.com/alejakazam/Sistema-Prestamo-Notebooks
+🛒 Tienda Web (Django + Sass) https://github.com/alejakazam/Django-Dogstore-con-Sass
+💳 AlkeWallet (Base de Datos) https://github.com/alejakazam/AlkeWallet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT TOOLs ->
+-Backend:
+Python
+Django
+PostgreSQL
+SQLite
+
+-Frontend:
+HTML5
+CSS3 / Sass
+Bootstrap 5
+JavaScript
+
+
+Otros:
+Git & GitHub
+VS Code
+Entornos virtuales (venv)
+MVC / MVT (arquitectura Django)
+Canva
+
+Contáctame a través de alefyduarte@gmail.com o en mi linkedin https://www.linkedin.com/in/aduarteps/
